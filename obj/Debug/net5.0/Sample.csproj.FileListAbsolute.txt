@@ -1,0 +1,16 @@
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\obj\Debug\net5.0\Sample.csprojAssemblyReference.cache
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\obj\Debug\net5.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\obj\Debug\net5.0\Sample.AssemblyInfoInputs.cache
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\obj\Debug\net5.0\Sample.AssemblyInfo.cs
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\obj\Debug\net5.0\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\bin\Debug\net5.0\Sample.exe
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\bin\Debug\net5.0\Sample.deps.json
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\bin\Debug\net5.0\Sample.runtimeconfig.json
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\bin\Debug\net5.0\Sample.runtimeconfig.dev.json
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\bin\Debug\net5.0\Sample.dll
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\bin\Debug\net5.0\ref\Sample.dll
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\bin\Debug\net5.0\Sample.pdb
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\obj\Debug\net5.0\Sample.dll
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\obj\Debug\net5.0\ref\Sample.dll
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\obj\Debug\net5.0\Sample.pdb
+C:\Users\Lynx\Documents\Coding\C Sharp\Sample\obj\Debug\net5.0\Sample.genruntimeconfig.cache
